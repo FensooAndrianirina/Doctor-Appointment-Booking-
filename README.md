@@ -1,16 +1,12 @@
-# backup
+# Doctor Appointment Booking App UI Kit for Flutter
 
-A new Flutter project.
+Cet UI Kit a été créé pour mettre en valeur mes compétences en conception d'interface utilisateur en utilisant les widgets Flutter. 
+Il s'agit d'un ensemble d'interfaces utilisateur et de composants réutilisables pour une application de réservation de rendez-vous médicaux.
 
-## Getting Started
+## Aperçus
+[Aperçu de l'écran 1](screenshots/welcome_screen.png)
 
-This project is a starting point for a Flutter application.
+[Aperçu de l'écran 2](screenshots/home_screen.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
